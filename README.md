@@ -1,4 +1,8 @@
 # val!
 val!
 
-*language of choice:* python (until i finish learning one of the other 500 i did a tutorial for once)
+ _         _  _             _    _    _         _
+| |_  ___ | || | ___   ___ <_> _| |_ | |_  _ _ | |_
+| . |/ ._>| || |/ . \ / . || |  | |  | . || | || . \
+|_|_|\___.|_||_|\___/ \_. ||_|  |_|  |_|_|`___||___/
+                      <___'
